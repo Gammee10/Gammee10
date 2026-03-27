@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Gammee 👋
 
-<!--
-**Gammee10/Gammee10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Scientist 
+💻 Currently learning Python and Data Analysis  
+📊 Building projects to improve my skills  
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- Student Score Analyzer
+- Student Data Analysis
+- Interactive Student Analyzer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Goals
+- Master Data Science
+- Work on real-world data problems
