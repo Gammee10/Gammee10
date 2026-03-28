@@ -8,6 +8,7 @@
 - Student Score Analyzer
 - Student Data Analysis
 - Interactive Student Analyzer
+- csv sales analyser
 
 ## 📚 Goals
 - Master Data Science
