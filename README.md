@@ -1,7 +1,4 @@
-<!-- ============================================================ -->
-<!--                    ANIMATED HEADER BANNER                    -->
-<!-- ============================================================ -->
-
+<!-- ANIMATED HEADER BANNER -->
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=120&section=header&text=Gamachis%20Alemayehu&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=65&desc=Full-Stack%20%7C%20AI%20Engineering%20%7C%20System%20Design&descAlignY=85&descSize=16&descColor=8b949e"/>
@@ -22,99 +19,36 @@
 
 ---
 
-<!-- ============================================================ -->
-<!--                        ABOUT ME                              -->
-<!-- ============================================================ -->
-
 ## 🧭 About Me
 
-```python
-class Gamachis:
-    name       = "Gamachis Alemayehu"
-    username   = "Gammee10"
-    location   = "Adama, Ethiopia 🇪🇹"
-    status     = "University Student"
-
-    focus      = [
-        "Full-Stack Web Development",
-        "AI & Machine Learning Engineering",
-        "System Design & Architecture",
-    ]
-
-    currently_learning = [
-        "Distributed systems & microservices",
-        "LLMs & RAG pipelines",
-        "Cloud infrastructure & DevOps",
-    ]
-
-    goal = "Build intelligent systems that solve real-world problems"
-```
+- 🎓 University student passionate about building systems that go beyond the classroom
+- 🌍 Based in **Adama, Ethiopia** — building and shipping from East Africa
+- 💻 Focused on **Full-Stack Development**, **AI Engineering**, and **System Design**
+- 🤖 Deeply interested in how intelligent systems are designed, trained, and deployed at scale
+- 🏗️ Currently exploring distributed systems, LLM pipelines, and cloud infrastructure
+- 🚀 Goal: Build production-ready AI-powered applications that solve real problems
 
 ---
-
-<!-- ============================================================ -->
-<!--                       TECH STACK                             -->
-<!-- ============================================================ -->
 
 ## 🛠️ Tech Stack
 
-<details>
-<summary><b>🌐 Languages</b></summary>
-<br/>
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791)
+<!-- Row 1: Languages -->
+<img src="https://skillicons.dev/icons?i=python,js,ts,postgres&theme=dark" />
 
-</details>
+<!-- Row 2: Frontend -->
+<img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" />
 
-<details>
-<summary><b>🖥️ Frontend</b></summary>
-<br/>
+<!-- Row 3: Backend -->
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" />
 
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
+<!-- Row 4: AI & Tools -->
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,docker,git,github&theme=dark" />
 
-</details>
-
-<details>
-<summary><b>⚙️ Backend & APIs</b></summary>
-<br/>
-
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
-
-</details>
-
-<details>
-<summary><b>🤖 AI & Data</b></summary>
-<br/>
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243)
-
-</details>
-
-<details>
-<summary><b>🗄️ Database & Tools</b></summary>
-<br/>
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-
-</details>
+</div>
 
 ---
-
-<!-- ============================================================ -->
-<!--                    CURRENTLY LEARNING                        -->
-<!-- ============================================================ -->
 
 ## 📚 Currently Learning
 
@@ -130,14 +64,10 @@ class Gamachis:
 
 ---
 
-<!-- ============================================================ -->
-<!--                     FEATURED PROJECTS                        -->
-<!-- ============================================================ -->
-
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>📊 View All Projects</b></summary>
+<summary><b>📂 View All Projects</b></summary>
 <br/>
 
 | Project | Description | Tech | Link |
@@ -152,10 +82,6 @@ class Gamachis:
 </details>
 
 ---
-
-<!-- ============================================================ -->
-<!--                      GITHUB STATS                            -->
-<!-- ============================================================ -->
 
 ## 📊 GitHub Stats
 
@@ -174,10 +100,6 @@ class Gamachis:
 
 ---
 
-<!-- ============================================================ -->
-<!--                    GITHUB TROPHIES                           -->
-<!-- ============================================================ -->
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -188,10 +110,6 @@ class Gamachis:
 
 ---
 
-<!-- ============================================================ -->
-<!--                    ACTIVITY GRAPH                            -->
-<!-- ============================================================ -->
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -201,24 +119,6 @@ class Gamachis:
 </div>
 
 ---
-
-<!-- ============================================================ -->
-<!--                    DAILY DEV QUOTE                           -->
-<!-- ============================================================ -->
-
-## 💬 Today's Dev Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-</div>
-
----
-
-<!-- ============================================================ -->
-<!--                      CONNECT                                 -->
-<!-- ============================================================ -->
 
 ## 📬 Let's Connect
 
@@ -234,8 +134,5 @@ class Gamachis:
 
 </div>
 
-<!-- ============================================================ -->
-<!--                    FOOTER WAVE                               -->
-<!-- ============================================================ -->
-
+<!-- FOOTER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=80&section=footer"/>
