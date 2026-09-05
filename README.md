@@ -12,7 +12,7 @@
 
 <!-- BADGES ROW -->
 ![Visitor Count](https://komarev.com/ghpvc/?username=Gammee10&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
-[![Open to Internships](https://img.shields.io/badge/🎯_Open_to-Internships-238636?style=for-the-badge)](mailto:your-email@example.com)
+[![Open to Internships](https://img.shields.io/badge/🎯_Open_to-Internships-238636?style=for-the-badge)](mailto:gammee1000@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/Gammee10?style=for-the-badge&color=58a6ff&labelColor=0d1117&label=Followers)](https://github.com/Gammee10?tab=followers)
 
 </div>
