@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Gamachis Alemayehu
 
-**Full-Stack Developer · AI & Backend Engineering · System Design**
+**Full-Stack | AI & ML Engineering | System Design & Architecture**
 
 I build real, production-ready web applications from Ethiopia — spanning school
 management, blogging, and intelligent job-search agents.
@@ -52,6 +52,18 @@ structure that holds them together.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+---
+
+## 💪 Comfortable With
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
 </div>
 
