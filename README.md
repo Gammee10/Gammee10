@@ -1,19 +1,18 @@
-<!-- ANIMATED HEADER BANNER -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=120&section=header&text=Gamachis%20Alemayehu&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=65&desc=Full-Stack%20%7C%20AI%20Engineering%20%7C%20System%20Design&descAlignY=85&descSize=16&descColor=8b949e"/>
+# 👋 Hi, I'm Gamachis Alemayehu
 
-<!-- ANIMATED TYPING SVG -->
-<a href="https://github.com/Gammee10">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there%2C+I'm+Gamachis+%F0%9F%91%8B;Full-Stack+Developer;AI+%26+ML+Engineer;System+Design+Enthusiast;Building+real+things+from+Ethiopia+%F0%9F%87%AA%F0%9F%87%B9" alt="Typing SVG" />
-</a>
+**Full-Stack Developer · AI & Backend Engineering · System Design**
 
-<br/>
+I build real, production-ready web applications from Ethiopia — spanning school
+management, blogging, and intelligent job-search agents.
 
-<!-- BADGES ROW -->
-![Visitor Count](https://komarev.com/ghpvc/?username=Gammee10&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
-[![Open to Internships](https://img.shields.io/badge/🎯_Open_to-Internships-238636?style=for-the-badge)](mailto:gammee1000@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/Gammee10?style=for-the-badge&color=58a6ff&labelColor=0d1117&label=Followers)](https://github.com/Gammee10?tab=followers)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:gammee1000@gmail.com)
+[![X / Twitter](https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=white)](https://x.com/GamachisAl69865)
+[![Telegram](https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/gam_mee)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gammee10)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Gammee10&style=flat-square&color=58a6ff&label=Profile+Views)
 
 </div>
 
@@ -21,12 +20,16 @@
 
 ## 🧭 About Me
 
-- 🎓 University student passionate about building systems that go beyond the classroom
-- 🌍 Based in **Adama, Ethiopia** — building and shipping from East Africa
-- 💻 Focused on **Full-Stack Development**, **AI Engineering**, and **System Design**
-- 🤖 Deeply interested in how intelligent systems are designed, trained, and deployed at scale
-- 🏗️ Currently exploring distributed systems, LLM pipelines, and cloud infrastructure
-- 🚀 Goal: Build production-ready AI-powered applications that solve real problems
+I'm a software developer who thrives on turning ideas into working systems. My
+focus is on the full stack — crafting clean APIs, intuitive interfaces, and the
+structure that holds them together.
+
+- 🎓 University student, building beyond the classroom
+- 🌍 Based in **Adama, Ethiopia**
+- 💻 Full-stack development with **TypeScript, React, Node.js, and PostgreSQL**
+- 🤖 Exploring AI engineering — LLM pipelines, model deployment, and RAG
+- 🏗️ Interested in how intelligent systems are designed and shipped at scale
+- 🚀 Always aiming for production-ready, real-world outcomes
 
 ---
 
@@ -34,31 +37,21 @@
 
 <div align="center">
 
-<!-- Row 1: Languages -->
-<img src="https://skillicons.dev/icons?i=python,js,ts,postgres&theme=dark" />
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<!-- Row 2: Frontend -->
-<img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" />
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-<!-- Row 3: Backend -->
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" />
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-<!-- Row 4: AI & Tools -->
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,docker,git,github&theme=dark" />
-
-</div>
-
----
-
-## 📚 Currently Learning
-
-<div align="center">
-
-| 🏗️ System Design | 🤖 AI Engineering | ☁️ Cloud & DevOps |
-|:---:|:---:|:---:|
-| Distributed systems | LLMs & RAG pipelines | Docker & containers |
-| Scalability patterns | Model deployment | CI/CD pipelines |
-| Microservices | Prompt engineering | Cloud infrastructure |
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -66,20 +59,23 @@
 
 ## 🚀 Featured Projects
 
-<details>
-<summary><b>📂 View All Projects</b></summary>
-<br/>
+### 🎓 [SmartEducation](https://github.com/Gammee10/SmartEducation)
+> A full-stack digital school platform for Ethiopian high schools. Modular
+> monolith with React, Express, TypeScript, Prisma, and PostgreSQL. Six feature
+> modules live and working end-to-end — auth & RBAC, LMS, assignments, quizzes,
+> attendance, and notifications. **175+ backend tests passing.**
 
-| Project | Description | Tech | Link |
-|---|---|---|---|
-| 📊 Student Score Analyzer | Analyzes student performance and surfaces key insights | Python | [→ View](https://github.com/Gammee10/student-score-analyzer) |
-| 📈 Student Data Analysis | Data pipeline for cleaning and visualizing student records | Python | [→ View](https://github.com/Gammee10/student-data-analysis) |
-| 🖥️ Interactive Student Analyzer | Real-time CLI tool for student data exploration | Python | [→ View](https://github.com/Gammee10/interactive-student-analyzer) |
-| 🛒 CSV Sales Analyser | Sales trend analysis from raw CSV data | Python | [→ View](https://github.com/Gammee10/csv-sales-analysis) |
+### 📝 [BlogSpace](https://github.com/Gammee10/BlogSpace)
+> A full-stack blogging platform built with React, Vite, Express, and MongoDB.
+> Category filters, live search, JWT auth, dark/light themes, comments, and
+> profiles.
 
-> 💡 More full-stack and AI-powered projects coming soon.
+### 🤖 [CareerPilot](https://github.com/Gammee10/CareerPilot)
+> An autonomous job-search and application agent. TypeScript backend, Next.js
+> dashboard, and a FastAPI AI service — containerized with Docker and a Caddy
+> entry point.
 
-</details>
+> 🌱 More full-stack and AI-powered projects are on the way.
 
 ---
 
@@ -87,34 +83,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gammee10&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gammee10&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Gammee10&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Gammee10&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Gamachis's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gammee10&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gammee10&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gammee10&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
 
 </div>
 
@@ -122,17 +92,17 @@
 
 ## 📬 Let's Connect
 
+I'm open to internships and collaboration. Feel free to reach out.
+
 <div align="center">
 
-[![X / Twitter](https://img.shields.io/badge/X_(Twitter)-0d1117?style=for-the-badge&logo=x&logoColor=white)](https://x.com/GamachisAl69865)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:gammee1000@gmail.com)
+[![X / Twitter](https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=white)](https://x.com/GamachisAl69865)
 [![Telegram](https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/gam_mee)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gammee10)
 
-<br/>
-
-⭐ **Like what you see? Star a repo and let's connect!**
-
 </div>
 
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=80&section=footer"/>
+---
+
+<p align="center"><em>Thanks for stopping by — feel free to explore my repositories!</em></p>
